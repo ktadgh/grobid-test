@@ -1,0 +1,9 @@
+[submodule "cpp-httplib"]
+	path = cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "tinyxml2"]
+	path = tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json.git
